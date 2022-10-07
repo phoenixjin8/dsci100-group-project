@@ -14,6 +14,7 @@ Reaching out to anyone who isn't contributing or not responding to messages will
 
 ## Signatures
 
-Jacob Guglielmin
-Matilde Galantino
-Amy Wong
+Jacob Guglielmin  
+Matilde Galantino  
+Amy Wong  
+
