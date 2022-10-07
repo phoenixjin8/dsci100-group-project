@@ -17,5 +17,5 @@ Our first step towards ensuring our expectations are met is to reach out to anyo
 Jacob Guglielmin  
 Matilde Galantino  
 Amy Wong  
-Phoenix 
+Phoenix Jin 
 
