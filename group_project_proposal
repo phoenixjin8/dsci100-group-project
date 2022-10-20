@@ -1,4 +1,4 @@
-Title: The relationship between Carbon dioxide emissions per capita (production), Mean years of schooling, Gross national income (GNI) per capita, Material footprint per capita, and Life expectancy at birth
+Title: The relationship between Carbon dioxide emissions per capita (production), Mean years of schooling, Gross national income (GNI) per capita, Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population) , and Life expectancy at birth
 
 Introduction:
 
@@ -14,7 +14,8 @@ Using only training data, visualize the data with at least one plot relevant to 
 
 Methods:
 
-We will select 
+We will select 5 columns, Carbon dioxide emissions per capita (production), Mean years of schooling, Gross national income (GNI) per capita, Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population), and Life expectancy at birth
+
 
 Explain how you will conduct either your data analysis and which variables/columns you will use. 
 
