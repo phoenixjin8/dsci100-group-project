@@ -18,6 +18,7 @@ We will select 5 columns, Carbon dioxide emissions per capita (production), Mean
 
 Carbon dioxide emissions per capita (production), Mean years of schooling, Gross national income (GNI) per capita, Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population) are varibales that we will use to predict Life expectancy at birth. 
 
+We will use graphs to visualize the results
 
 Explain how you will conduct either your data analysis and which variables/columns you will use. 
 Note - you do not need to use all variables/columns that exist in the raw data set. In fact, that's often not a good idea. For each variable think: is this a useful variable for prediction?
@@ -34,3 +35,7 @@ We also expect to use the data for Carbon dioxide emissions per capita (producti
 What do you expect to find?
 What impact could such findings have?
 What future questions could this lead to?
+
+
+
+please add more 
