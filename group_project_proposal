@@ -1,4 +1,4 @@
-Title: The relationship between Carbon dioxide emissions per capita (production), Mean years of schooling, Gross national income (GNI) per capita, Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population) , and Life expectancy at birth
+Title: The relationship between carbon dioxide emissions per capita (production), mean years of schooling, gross national income (GNI) per capita, poverty headcount ratio at $6.85 a day (2017 PPP) (% of population) ,and life expectancy at birth
 
 Introduction:
 
@@ -8,6 +8,10 @@ Identify and describe the dataset that will be used to answer the question
 
 Life expectancy is a crucial metric in assessing the wellbeing of populations, and as such, is of pertinence in both medical and socioeconomic research. Essentially, life expectancy provides the average age of death in a population, giving a more general insight into mortality (Roser, Ortiz-Ospina & Ritchie, 2013). Life expectancy began to rise in industrialized communities nearing the 19th century due to the advent of new technolgy and more advanced healthcare. Indeed, life expectancy has globally increased from 2000 to 2019, from 66.8 years in 2000 to 73.4 years in 2019 (World Health Organization, 2019). However, this increase is not truly equal - countries with lower human development have consistently reported lower life expectancies, leading to a large discrepancy in health worldwide (Roser et al., 2013).
 
+The question we are trying to answer is that how do carbon dioxide emissions per capita (production), mean years of schooling, gross national income (GNI) per capita, poverty headcount ratio at $6.85 a day (2017 PPP) (% of population) affect life expectancy at birth? Is there a relationship between each factor and life expectancy at birth?
+
+The datasets we use are from United Nations Development Programme and world bank. The one from United Nations Development Programme is about the components of human development index, trends in human devlopment index, inequality-adjusted human devlopment index, gender development index, and gender inequality index. The other one from world bank is about poverty headcount ratio at $6.85 a day (2017 PPP) (% of population). 
+
 Preliminary exploratory data analysis:
 Demonstrate that the dataset can be read from the web into R 
 Clean and wrangle your data into a tidy format
@@ -15,34 +19,28 @@ Using only training data, summarize the data in at least one table (this is expl
 Using only training data, visualize the data with at least one plot relevant to the analysis you plan to do (this is exploratory data analysis). An example of a useful visualization could be one that compares the distributions of each of the predictor variables you plan to use in your analysis.
 
 Methods:
-
 We will select 5 columns, Carbon dioxide emissions per capita (production), Mean years of schooling, Gross national income (GNI) per capita, Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population), and Life expectancy at birth. 
+
+We will combine countries with very high human development and high human devlopment into high human developed countries and also combine countries with medium human development and low human development into low human developed countries. 
 
 Carbon dioxide emissions per capita (production), Mean years of schooling, Gross national income (GNI) per capita, Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population) are varibales that we will use to predict Life expectancy at birth. 
 
-We will use graphs to visualize the results
-
-Explain how you will conduct either your data analysis and which variables/columns you will use. 
-Note - you do not need to use all variables/columns that exist in the raw data set. In fact, that's often not a good idea. For each variable think: is this a useful variable for prediction?
-Describe at least one way that you will visualize the results
-
+We will use scatterplot graphs to visualize the results. We will make 4 scatterplots graph for life expectancy at birth vs factors respectively; one for carbon dioxide emissions per capita (production), one for mean years of schooling, one for gross national income (GNI) per capita, and one for poverty headcount ratio at $6.85 a day (2017 PPP) (% of population) . 
 
 
 Expected outcomes and significance:
-We expect to find the relationship between the 4 factors, Carbon dioxide emissions per capita (production), Mean years of schooling, Gross national income (GNI) per capita, Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population), and Life expectancy at birth. 
+We expect to find the relationship between the 4 factors, carbon dioxide emissions per capita (production), mean years of schooling, gross national income (GNI) per capita, poverty headcount ratio at $6.85 a day (2017 PPP) (% of population), and life expectancy at birth. 
 
-We also expect to use the data for Carbon dioxide emissions per capita (production), Mean years of schooling, Gross national income (GNI) per capita, Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population) to predict Life expectancy at birth. 
+We also expect to use the data for Carbon dioxide emissions per capita (production), mean years of schooling, gross national income (GNI) per capita, poverty headcount ratio at $6.85 a day (2017 PPP) (% of population) to predict Life expectancy at birth. Our hypothesis is that as Carbon dioxide emissions, mean years of schooling, and gross national income increases, and povert heawdcount ratio decreases, life expectancy at birth increases. 
 
+These findings will enable us to compare the life expectancy at birth between high human developed countries and low human developed countries. We can also .... (TO DO) 
 
-What do you expect to find?
-What impact could such findings have?
-What future questions could this lead to?
-
+How can low human developed countries increase their life expectancy at birth? 
 
 
-please add more 
 
 Citations:
 Max Roser, Esteban Ortiz-Ospina and Hannah Ritchie (2013) - "Life Expectancy". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/life-expectancy' [Online Resource]
 
 World Health Organization, (2020). Ghe: Life expectancy and healthy life expectancy. World Health Organization. Retrieved October 24, 2022, from https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/ghe-life-expectancy-and-healthy-life-expectancy 
+
