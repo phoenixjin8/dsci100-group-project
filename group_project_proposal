@@ -1,25 +1,12 @@
-#The relationship between carbon dioxide emissions per capita (production), mean years of schooling, gross national income (GNI) per capita, poverty headcount ratio at $6.85 a day (2017 PPP) (% of population) ,and life expectancy at birth
+Title: The relationship between carbon dioxide emissions per capita (production), mean years of schooling, gross national income (GNI) per capita, poverty headcount ratio at $6.85 a day (2017 PPP) (% of population) ,and life expectancy at birth
 
-##Introduction:
+Introduction:
 
 Provide some relevant background information on the topic so that someone unfamiliar with it will be prepared to understand the rest of your proposal
 Clearly state the question you will try to answer with your project
 Identify and describe the dataset that will be used to answer the question
 
-###Life expectancy 
-
-Life expectancy is a crucial metric in assessing the wellbeing of populations, and as such, is of pertinence in both medical and socioeconomic research. Essentially, life expectancy provides the average age of death in a population, revealing general insight into human mortality (Roser, Ortiz-Ospina & Ritchie, 2013). Life expectancy has risen drastically in industrialized communities since the 19th century due to the advent of new technology and more advanced healthcare. Indeed, life expectancy has globally increased from 2000 to 2019, from 66.8 years in 2000 to 73.4 years in 2019 (World Health Organization, 2019). However, this increase is not truly equal - countries with lower human development have consistently reported lower life expectancies, leading to a large discrepancy in health worldwide (Roser et al., 2013). As human societies develop new structures and technologies, the factors influencing life expectancy grow. In this project, we will analyze the effects of carbon dioxide emissions per capita (production), mean years of schooling, gross national income (GNI) per capita, and poverty headcount ratio at $6.85 a day (2017 PPP). Under the assumption that higher life expectancy leads to positive contributions to the economy, as well as general human development, it is important to determine what impedes or enhances the life expectancy of the population.
-
-The use of fossil fuels has increased dramatically over the years following the industrial revolution, and remains popular today. As a result, its byproduct, carbon dioxide, has also increased in concentration in the atmosphere. Several decades of research over the years have indicated that rising air pollution caused by fossil fuel emissions threatens local ecosystems and accelerates global warming (Balakrishnan et al., 2018). As such, air pollution poses a large threat to the population's health, and therefore life expectancy. 
-
-Education is an important part of societal structure, as such, it will be considered as a factor on life expectancy. Past research has indicated that higher levels of schooling are linked to higher life expectancies; in part due to more informed decisions and healthier lifestyles (Blackburn and Cipriani, 2002). In addition, the ability to attend school in some countries is linked with socioeconomic status. 
-
-The gross national income is the total amount of money earned by a country's people and businesses, calculated from their income (citation). At a national level, a higher GNI allows more expense for health promoting public systems, such as improved healthcare and sanitation. Therefore, a higher GNI should be linked to an increase in life expectancy. 
-
-Lastly, the poverty headcount ratio shows the percentage of the country's population who has less than $6.85 to spend per day, in PPP. 
-
-Poverty and its encompassing characteristics such as poor living conditions, limited access to housing and healthcare 
-
+Life expectancy is a crucial metric in assessing the wellbeing of populations, and as such, is of pertinence in both medical and socioeconomic research. Essentially, life expectancy provides the average age of death in a population, giving a more general insight into mortality (Roser, Ortiz-Ospina & Ritchie, 2013). Life expectancy began to rise in industrialized communities nearing the 19th century due to the advent of new technolgy and more advanced healthcare. Indeed, life expectancy has globally increased from 2000 to 2019, from 66.8 years in 2000 to 73.4 years in 2019 (World Health Organization, 2019). However, this increase is not truly equal - countries with lower human development have consistently reported lower life expectancies, leading to a large discrepancy in health worldwide (Roser et al., 2013).
 
 The question we are trying to answer is that how do carbon dioxide emissions per capita (production), mean years of schooling, gross national income (GNI) per capita, poverty headcount ratio at $6.85 a day (2017 PPP) (% of population) affect life expectancy at birth? Is there a relationship between each factor and life expectancy at birth?
 
@@ -57,8 +44,3 @@ Citations:
 Max Roser, Esteban Ortiz-Ospina and Hannah Ritchie (2013) - "Life Expectancy". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/life-expectancy' [Online Resource]
 
 World Health Organization, (2020). Ghe: Life expectancy and healthy life expectancy. World Health Organization. Retrieved October 24, 2022, from https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/ghe-life-expectancy-and-healthy-life-expectancy 
-
-Close
-T.D. Hill, A.K. Jorgenson, P. Ore, K.S. Balistreri, B. Clark
-Air quality and life expectancy in the United States: an analysis of the moderating effect of income inequality
-SSM-Popul. Health, 7 (2019), Article 100346
